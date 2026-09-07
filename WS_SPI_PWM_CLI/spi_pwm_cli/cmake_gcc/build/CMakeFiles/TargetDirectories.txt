@@ -1,0 +1,4 @@
+C:/svn/New-shade_spi-cli-mct/WS_SPI_PWM_CLI/spi_pwm_cli/cmake_gcc/build/CMakeFiles/slc.dir
+C:/svn/New-shade_spi-cli-mct/WS_SPI_PWM_CLI/spi_pwm_cli/cmake_gcc/build/CMakeFiles/spi_pwm_cli.dir
+C:/svn/New-shade_spi-cli-mct/WS_SPI_PWM_CLI/spi_pwm_cli/cmake_gcc/build/CMakeFiles/edit_cache.dir
+C:/svn/New-shade_spi-cli-mct/WS_SPI_PWM_CLI/spi_pwm_cli/cmake_gcc/build/CMakeFiles/rebuild_cache.dir
